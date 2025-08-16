@@ -17,14 +17,23 @@ For the use of SMK KD10 Counselling Unit
 
 ## Planned Features
 ### MVP
-- Enable students to log in using DELIMA credentials.
+#### Entity Login
+- Admin/Counsellor to log in with special access.
+- Students to log in using DELIMA credentials.
 - Students are able to log in, and post "luahan"
+#### Ruang Luahan 
+- "Luahan" categories of issues are:
+    - Bully
+    - Sexual Harrasment
+    - Suicidal thoughts
+    - Supporter
 - "Luahan" are to be approved by the counsellor(s)
 - "Luahan" can be deleted by the counsellors
 - "Luahan" will expire a month after it is approved
 - Identity of a "luahan" post will be fully visible by the counsellor ONLY.
 - Identity of a "luahan" can be made anonymous or public, set by the original "luahan" poster
-- Design of the "luahan"s are to be of bubble chats, likable and sorted thoroughly
+- Design of the "luahan"s are to be of bubble chats, likable and sorted accordingly
+
 
 ## Tech Stack
 - Primitives: HTML, CSS, Javascript
